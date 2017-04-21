@@ -1,0 +1,24 @@
+{
+  "name": "thenetninja-node-js",
+  "version": "1.0.0",
+  "description": "A project of the  tutorial Node JS Tutorial for Beginners of the youtube channel The Net Ninja.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ncnegoleo/thenetninja-node-js.git"
+  },
+  "author": "Leonardo Soares <leonardo.soares.ws@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ncnegoleo/thenetninja-node-js/issues"
+  },
+  "homepage": "https://github.com/ncnegoleo/thenetninja-node-js#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "ejs": "^2.5.6",
+    "express": "^4.15.2"
+  }
+}
